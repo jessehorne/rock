@@ -1,0 +1,21 @@
+name: rock
+version: 0.1.0
+
+authors:
+  - Jesse Horne <j.horne2796@gmail.com>
+
+targets:
+  rock:
+    main: src/rock.cr
+
+dependencies:
+    kemal:
+        github: kemalcr/kemal
+    dotenv:
+        github: gdotdesign/cr-dotenv
+    crustache:
+        github: MakeNowJust/crustache
+
+crystal: 0.26.1
+
+license: MIT

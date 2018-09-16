@@ -1,0 +1,26 @@
+version: 1.0
+shards:
+  crustache:
+    github: MakeNowJust/crustache
+    version: 2.4.0
+
+  dotenv:
+    github: gdotdesign/cr-dotenv
+    version: 0.1.0
+
+  exception_page:
+    github: crystal-loot/exception_page
+    version: 0.1.1
+
+  kemal:
+    github: kemalcr/kemal
+    version: 0.24.0
+
+  kilt:
+    github: jeromegn/kilt
+    version: 0.4.0
+
+  radix:
+    github: luislavena/radix
+    version: 0.3.8
+
